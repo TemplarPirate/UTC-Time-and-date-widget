@@ -79,10 +79,10 @@ Contributions are welcome and strongly encouraged (I'd love upgrade contribution
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software as long as proper attribution is given.
 
 ---
----
+
+## ⭐
 **<div align="center">If you like this project, please ⭐ it to show your support!</div>**
 
----
 ---
 
 ## Support Me:
