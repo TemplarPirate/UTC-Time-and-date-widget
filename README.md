@@ -1,6 +1,7 @@
 <div align="center">
   <h1>UTC Time Display Widget</h1>
 </div>
+
 A super lightweight Python script to display the current UTC date and time in a transparent, draggable window on your **Windows desktop**. Designed for simplicity and portability, this tool is perfect for anyone who needs a quick, unobtrusive UTC clock.
 
 ---
@@ -10,6 +11,7 @@ A super lightweight Python script to display the current UTC date and time in a 
 - **Transparent background**: Blends seamlessly into your desktop.
 - **Draggable and resizable**: Fully customizable positioning and size.
 - **Lightweight and simple**: No unnecessary clutter—just the time.
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/language-Python-blue.svg)  
@@ -21,7 +23,9 @@ A super lightweight Python script to display the current UTC date and time in a 
 ---
 
 ## Screenshot
-![UTC Time Display Widget](widget_screenshot.png)
+<div align="center">
+  <img src="widget_screenshot.png" alt="UTC Time Display Widget" width="80%">
+</div>
 
 ---
 
@@ -73,10 +77,11 @@ This script is designed for Windows environments. While it may work on other ope
 1. Clone the repository:
    ```bash
    git clone https://github.com/TemplarPirate/UTC-Time-and-date-widget.git
-2. Run script directly
-    ```bash
+   ```
+2. Run the script directly:
+   ```bash
    python utc_display_widget.pyw
-
+   ```
 
 ---
 
@@ -110,4 +115,4 @@ If this little thing-a-ma-bob brought joy or utility to your digital life, consi
 Your encouragement helps keep the caffeine flowing and ideas growing.
 
 [☕ Buy me a coffee](https://www.buymeacoffee.com/scofflaw)
-
+```
