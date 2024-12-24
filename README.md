@@ -78,9 +78,13 @@ Contributions are welcome and strongly encouraged (I'd love upgrade contribution
 ## License
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software as long as proper attribution is given.
 
+---
+---
+**<div align="center">If you like this project, please ⭐ it to show your support!</div>**
 
-**If you like this project, please ⭐ it to show your support!**
+---
+---
 
 ## Support Me:
-If you find these bookmarks helpful and want to support my work, feel free to [buy me a coffee](https://buymeacoffee.com/scofflaw)! ☕
+If you find this little thing-a-ma-bob helpful and want to support my work, feel free to [buy me a coffee](https://buymeacoffee.com/scofflaw)! ☕
 
