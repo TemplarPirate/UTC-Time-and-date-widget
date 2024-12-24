@@ -1,15 +1,22 @@
-# UTC Time Display Widget
-
+<div align="center">
+  <h1>UTC Time Display Widget</h1>
+</div>
 A super lightweight Python script to display the current UTC date and time in a transparent, draggable window on your **Windows desktop**. Designed for simplicity and portability, this tool is perfect for anyone who needs a quick, unobtrusive UTC clock.
 
 ---
 
 ## Features
-- **Real-time UTC updates**: Refreshes every second to ensure accurate time display.
-- **Transparent background**: Seamlessly blends into your desktop environment.
-- **Draggable window**: Click and drag to position the display anywhere on your screen.
-- **Top-right alignment**: Defaults to the top-right corner of your screen with a 10px margin.
-- **Windows compatibility**: Designed and tested on Windows 11, but may work on other versions.
+- **Real-time UTC updates**: Accurate to the second.
+- **Transparent background**: Blends seamlessly into your desktop.
+- **Draggable and resizable**: Fully customizable positioning and size.
+- **Lightweight and simple**: No unnecessary clutter—just the time.
+<div align="center">
+
+![Python](https://img.shields.io/badge/language-Python-blue.svg)  
+![License](https://img.shields.io/badge/license-MIT-green.svg)  
+![Version](https://img.shields.io/badge/version-1.0-yellow.svg)
+
+</div>
 
 ---
 
@@ -62,9 +69,22 @@ This script is designed for Windows environments. While it may work on other ope
 
 ---
 
+## Quick Start
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/TemplarPirate/UTC-Time-and-date-widget.git
+2. Run script directly
+    ```bash
+   python utc_display_widget.pyw
+
+
+---
+
 ## Future Development
-- Explore compatibility for other operating systems (Linux/macOS).
-- Add more customization options, such as themes and additional time zones.
+- 🌍 Expand compatibility for Linux/macOS.  
+- 🎨 Add themes for personalizing the look and feel.  
+- 🕐 Include additional time zones for the global nomads.  
+- 🚀 Build a one-click installer for effortless setup.
 
 ---
 
@@ -80,11 +100,14 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ---
 
-## Please Star
-**<div align="center">If you like this project, please ⭐ it to show your support!</div>**
+## ⭐ Please Star
+If you like this project, please **⭐ star it** to show your support and help others discover it!
 
 ---
 
-## Support Me:
-If you find this little thing-a-ma-bob helpful and want to support my work, feel free to [buy me a coffee](https://buymeacoffee.com/scofflaw)! ☕
+## Support Me
+If this little thing-a-ma-bob brought joy or utility to your digital life, consider supporting my work!  
+Your encouragement helps keep the caffeine flowing and ideas growing.
+
+[☕ Buy me a coffee](https://www.buymeacoffee.com/scofflaw)
 
